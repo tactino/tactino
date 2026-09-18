@@ -10,7 +10,7 @@ Two humanoids carrying an object together occlude exactly what each other needs 
 **Noise schedules for joint continuous–discrete diffusion** · *Research intern, [Prof. Ge Liu](https://geliu.web.illinois.edu/)'s group, UIUC*
 When a diffusion model generates continuous and discrete quantities at once — atom positions alongside atom types — how should noise be paced across the two channels? Currently hand-tuned per dataset; I work on when that pacing matters and what the best schedule looks like.
 
-**[PlugRL](https://github.com/PlugRL)** · *Research assistant, IIIS, Tsinghua*
+**[PlugRL](https://github.com/PlugRL)** · *Research assistant, [Prof. Huazhe Xu](http://hxu.rocks/)'s group, IIIS, Tsinghua*
 A written boundary between RL training and its environments, so that either side can be replaced without touching the other. A full-size π₀.₅ has run end to end through it on LIBERO.
 
 ### Interests
