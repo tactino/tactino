@@ -7,7 +7,7 @@ B.Eng. in Automation at Tsinghua University. I work on **embodied AI and robot l
 **Shared perception between humanoids** · *Research intern, [Prof. Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/)'s group, Cornell*
 Two humanoids carrying an object together occlude exactly what each other needs to see. I study how they should share perception over a lossy link — what to send, how much, how often — and how the receiver should behave when the link drops. *Humanoid2Humanoid*, under review.
 
-**Noise schedules for joint continuous–discrete diffusion** · *Research intern, [Prof. Ge Liu](https://geliu-illinois.github.io/)'s group, UIUC*
+**Noise schedules for joint continuous–discrete diffusion** · *Research intern, [Prof. Ge Liu](https://siebelschool.illinois.edu/about/people/faculty/geliu)'s group, UIUC*
 When a diffusion model generates continuous and discrete quantities at once — atom positions alongside atom types — how should noise be paced across the two channels? Currently hand-tuned per dataset; I work on when that pacing matters and what the best schedule looks like.
 
 **[PlugRL](https://github.com/PlugRL)** · *Research assistant, IIIS, Tsinghua*
